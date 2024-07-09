@@ -1,0 +1,60 @@
+# summary
+- quality of life
+  - improve hotkeys
+    - (external) helpful hotkeys ammo swap
+    - Better wing/flight controls
+      - auto slow fall unless pressing `down` keybind
+      - auto hover in absence of vertical input
+      - auto decelerate
+      - dedicated flying `up` keybind
+    - remap set bonus ability
+    - flip gravity hotkey
+    - inventory row 2 hotkeys
+    - force item switching during cooldown
+    - dash hotkey
+  - option to hide some things
+    - hide potion effects
+    - hide inferno potion
+  - flight time bar
+  - auto resummon favorited minions
+- npc defense scales with difficulty (1.5x on expert, 2x on master)
+- hellforge can be made from hellstone
+- power cell -> fiery aura
+- lizard brick -> talons
+  - like fire gauntlet but for summoning
+- duke fishron no longer does fixed number of chargesevery time
+- duke fishron drops seafood snatcher
+  - 7777 fishing power, 3-6 bobbers, fast deploy
+- summoner armor gives extra turrets
+  - and buffs the old one army turrets
+- empress, solar, stardust, celestial wings now let you fall faster
+- ancient manipulator
+  - hero shield
+    - combined ankh and ice shield
+- pillars how have 200000 health and no forcefield
+- luminite weapons
+  - railgun
+  - dwarf star
+- daytime empress
+  - Permanent soaring insignia
+- shimmer + celestial sigil -> celebration event
+  - like pumpkin/frost moon but with enemies throughout the game
+  - good for trying out your endgame weapons
+- harder version of empress
+  - randomized attack order
+  - multiple heads in first phase
+  - faster attacks in second phase
+  - drops
+    - fractal (empress sword)
+    - nova fragment
+      - divine diffractor
+      - neutronium bars
+        - infinity (weapon)
+    - unity
+- sun empress
+  - player poppet
+    - revives you once after death
+  - peace offering
+    - makes enemies peaceful but the behavior is buggy
+- unused
+  - energy shield

@@ -1,0 +1,249 @@
+Mods: {
+	ImprovedFlightControls: {
+		Configs: {
+			Config: {
+				summonBank: {
+					Tooltip: Automatically summon minions in piggy bank
+					Label: Include Piggy Bank
+				}
+
+				summonCount: {
+					Tooltip: How many times to summon the minions favorited or in bank
+					Label: Minion Autosummon Count
+				}
+
+				Headers: {
+					MinionAutosummon: Minion Autosummon Header
+					Potions: Potions Header
+					Flight: Flight Header
+				}
+
+				HideInferno: {
+					Tooltip: ""
+					Label: Hide Inferno Potion
+				}
+
+				HideBuffIcons: {
+					Tooltip: ""
+					Label: Hide Buff Icons
+				}
+
+				DisableBuffButton: {
+					Tooltip: Prevents Buff Icon from interfering with cursor
+					Label: Disable Buff Icon Interaction
+				}
+
+				FlightTimer: {
+					Tooltip: Adds a timer next to the player to show how much wing time is left. False for no timer, true for timer.
+					Label: Flight Timer
+				}
+
+				DisplayName: Config
+			}
+		}
+
+		Projectiles.RailgunBullet.DisplayName: Railgun Bullet
+		NPCs.EmpressEternal.DisplayName: Empress Eternal
+
+		Items: {
+			Unity: {
+				Tooltip: ""
+				DisplayName: Unity
+			}
+
+			Railgun: {
+				Tooltip: ""
+				DisplayName: Railgun
+			}
+
+			Infinity: {
+				Tooltip: ""
+				DisplayName: Infinity
+			}
+
+			Fractal: {
+				Tooltip: ""
+				DisplayName: Fractal
+			}
+
+			DwarfStar: {
+				Tooltip: ""
+				DisplayName: Dwarf Star
+			}
+
+			SeafoodSnatcher: {
+				Tooltip: ""
+				DisplayName: Seafood Snatcher
+			}
+
+			SummonPotion: {
+				Tooltip: ""
+				DisplayName: Summon Potion
+			}
+
+			StoneskinPotion: {
+				Tooltip: ""
+				DisplayName: Stoneskin Potion
+			}
+
+			RangedPotion: {
+				Tooltip: ""
+				DisplayName: Ranged Potion
+			}
+
+			MeleePotion: {
+				Tooltip: ""
+				DisplayName: Melee Potion
+			}
+
+			MagicPotion: {
+				Tooltip: ""
+				DisplayName: Magic Potion
+			}
+
+			GeneralPotion2: {
+				Tooltip: ""
+				DisplayName: General Potion2
+			}
+
+			GeneralPotion: {
+				Tooltip: ""
+				DisplayName: General Potion
+			}
+
+			FastfallPotion: {
+				Tooltip: ""
+				DisplayName: Fastfall Potion
+			}
+
+			CoronalPotion: {
+				Tooltip: ""
+				DisplayName: Coronal Potion
+			}
+
+			BaseCombinedPotion: {
+				Tooltip: ""
+				DisplayName: Base Combined Potion
+			}
+
+			ArenaPotion: {
+				Tooltip: ""
+				DisplayName: Arena Potion
+			}
+
+			PlayerVoodooPoppet: {
+				Tooltip: ""
+				DisplayName: Player Voodoo Poppet
+			}
+
+			PermanantSoaringInsignia: {
+				Tooltip: ""
+				DisplayName: Permanant Soaring Insignia
+			}
+
+			PeaceOffering: {
+				Tooltip: ""
+				DisplayName: Peace Offering
+			}
+
+			NovaFragment: {
+				Tooltip: ""
+				DisplayName: Nova Fragment
+			}
+
+			NeutroniumBar: {
+				Tooltip: ""
+				DisplayName: Neutronium Bar
+			}
+
+			Talons: {
+				Tooltip: ""
+				DisplayName: Talons
+			}
+
+			HeroShield2: {
+				Tooltip: ""
+				DisplayName: Hero Shield2
+			}
+
+			EnergyShield: {
+				Tooltip: ""
+				DisplayName: Energy Shield
+			}
+
+			DivineDiffractor: {
+				Tooltip: ""
+				DisplayName: Divine Diffractor
+			}
+
+			EmpressEternalSummon: {
+				Tooltip: ""
+				DisplayName: Empress Eternal Summon
+			}
+
+			CelebrationEventSpawner: {
+				Tooltip: ""
+				DisplayName: Celebration Event Spawner
+			}
+		}
+
+		Buffs: {
+			Tipsy2: {
+				Description: Mods.ImprovedFlightControls.Buffs.Tipsy2.Description
+				DisplayName: Tipsy2
+			}
+
+			Stoneskin: {
+				Description: Mods.ImprovedFlightControls.Buffs.Stoneskin.Description
+				DisplayName: Stoneskin
+			}
+
+			Shatter: {
+				Description: Mods.ImprovedFlightControls.Buffs.Shatter.Description
+				DisplayName: Shatter
+			}
+
+			Fastfall: {
+				Description: Mods.ImprovedFlightControls.Buffs.Fastfall.Description
+				DisplayName: Fastfall
+			}
+
+			Corona: {
+				Description: Mods.ImprovedFlightControls.Buffs.Corona.Description
+				DisplayName: Corona
+			}
+		}
+
+		Biomes: {
+			CelebrationEvent: {
+				TownNPCDialogueName: the Celebration Event
+				DisplayName: Celebration Event
+			}
+		}
+
+		Keybinds: {
+			"Use Item #19.DisplayName": Use  Item #19
+			"Use Item #18.DisplayName": Use  Item #18
+			"Use Item #17.DisplayName": Use  Item #17
+			"Use Item #16.DisplayName": Use  Item #16
+			"Use Item #15.DisplayName": Use  Item #15
+			"Use Item #14.DisplayName": Use  Item #14
+			"Use Item #13.DisplayName": Use  Item #13
+			"Use Item #12.DisplayName": Use  Item #12
+			"Use Item #11.DisplayName": Use  Item #11
+			"Use Item #10.DisplayName": Use  Item #10
+			Dash.DisplayName: Dash
+			"Flip Gravity.DisplayName": Flip  Gravity
+			"Activate Set Bonus Ability.DisplayName": Activate  Set  Bonus  Ability
+			"Fly Down.DisplayName": Fly  Down
+			"Fly Right.DisplayName": Fly  Right
+			"Fly Left.DisplayName": Fly  Left
+			"Fly Up.DisplayName": Fly  Up
+		}
+
+		UI: {
+			EnergyShield: Mods.ImprovedFlightControls.UI.EnergyShield
+			ExampleResource: Mods.ImprovedFlightControls.UI.ExampleResource
+		}
+	}
+}

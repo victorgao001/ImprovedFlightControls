@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fL9Nsy7x4dKX9j+mO3SoeJuwC+1a0wxwQuR3IW5mJWjbY/snlPlqZa7OgUlK0hBuf5DUCnLUbIRO8yEVSy2aQw==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\aaeria\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ImprovedFlightControls\\ImprovedFlightControls.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'tModLoader.CodeAssist (>= 0.1.0)' for 'net6.0'.",
+      "libraryId": "tModLoader.CodeAssist",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
